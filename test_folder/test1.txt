@@ -8,3 +8,5 @@ hi hi hi
 
 java
 python 
+hello c++
+hello javascript
