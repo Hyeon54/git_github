@@ -14,5 +14,9 @@ hello spring spring
 hello spring1
 hello spring2
 hello spring4
+<<<<<<< HEAD
 
 hello world java3
+=======
+hello python3
+>>>>>>> 968f4af88ca3c644a70e956bc18bf11402639772
